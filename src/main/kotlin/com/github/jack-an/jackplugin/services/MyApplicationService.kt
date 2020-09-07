@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jack-an.jackplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jack-an.jackplugin.MyBundle
 
 class MyApplicationService {
 
